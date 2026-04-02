@@ -65,5 +65,5 @@ Helps detect overfitting or underfitting
 - Model degradation
 - Retrain when needed
 
-<img src = "(../../../Downloads/istockphoto-1403500817-612x612.jpg)" width = "500" height = "300" >
 
+![Nature](istockphoto-1403500817-612x612.jpg)
