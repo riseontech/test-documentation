@@ -67,3 +67,8 @@ Helps detect overfitting or underfitting
 
 
 ![Nature](istockphoto-1403500817-612x612.jpg)
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Cell 1   | Cell 2   |
+| Cell 3   | Cell 4   |
